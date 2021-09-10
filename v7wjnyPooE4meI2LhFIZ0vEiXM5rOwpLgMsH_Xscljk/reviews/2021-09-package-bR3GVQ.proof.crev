@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-09-10T20:43:33.781242856+02:00"
+from:
+  id-type: crev
+  id: v7wjnyPooE4meI2LhFIZ0vEiXM5rOwpLgMsH_Xscljk
+  url: "https://github.com/fkohlgrueber/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cfg-if
+  version: 1.0.0
+  revision: e60fa1efeab0ec6e90c50d93ec526e1410459c23
+  digest: YmRVto2mw7U7GJhrOe13k_5Sgg9TcQWK1NuLN2Qiz5E
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  Thorough review of the macro, looks correct. Repo is maintained.
+----- SIGN CREV PROOF -----
+Oj16VXMeK12ZBgw4QpVPLtSKzvzV3v4BAWgoENjdkITJlog4i1r-WJzLtT1POTKAxtncf4feoFQbYvcb-kNIBg
+----- END CREV PROOF -----
+
