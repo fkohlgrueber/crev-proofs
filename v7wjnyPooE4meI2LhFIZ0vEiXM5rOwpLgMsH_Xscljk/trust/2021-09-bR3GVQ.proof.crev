@@ -1,0 +1,18 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-09-10T20:14:54.365752434+02:00"
+from:
+  id-type: crev
+  id: v7wjnyPooE4meI2LhFIZ0vEiXM5rOwpLgMsH_Xscljk
+  url: "https://github.com/fkohlgrueber/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+trust: medium
+comment: |-
+  first trust!
+----- SIGN CREV PROOF -----
+qYbVp-ql0cbDadvZMgjBwcrNUK8hSQdlOMIsDYz6dK4GfOUklA15ka_ilBqWC-NOms-bIEDOoMYfmPIDZe8kCw
+----- END CREV PROOF -----
+
